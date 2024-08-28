@@ -1,0 +1,14 @@
+C:\Users\RohithKV\Downloads\LUMEN\Week7\Wednesday\SampleSolution\MyApp1\bin\Debug\net8.0\MyApp1.exe
+C:\Users\RohithKV\Downloads\LUMEN\Week7\Wednesday\SampleSolution\MyApp1\bin\Debug\net8.0\MyApp1.deps.json
+C:\Users\RohithKV\Downloads\LUMEN\Week7\Wednesday\SampleSolution\MyApp1\bin\Debug\net8.0\MyApp1.runtimeconfig.json
+C:\Users\RohithKV\Downloads\LUMEN\Week7\Wednesday\SampleSolution\MyApp1\bin\Debug\net8.0\MyApp1.dll
+C:\Users\RohithKV\Downloads\LUMEN\Week7\Wednesday\SampleSolution\MyApp1\bin\Debug\net8.0\MyApp1.pdb
+C:\Users\RohithKV\Downloads\LUMEN\Week7\Wednesday\SampleSolution\MyApp1\obj\Debug\net8.0\MyApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RohithKV\Downloads\LUMEN\Week7\Wednesday\SampleSolution\MyApp1\obj\Debug\net8.0\MyApp1.AssemblyInfoInputs.cache
+C:\Users\RohithKV\Downloads\LUMEN\Week7\Wednesday\SampleSolution\MyApp1\obj\Debug\net8.0\MyApp1.AssemblyInfo.cs
+C:\Users\RohithKV\Downloads\LUMEN\Week7\Wednesday\SampleSolution\MyApp1\obj\Debug\net8.0\MyApp1.csproj.CoreCompileInputs.cache
+C:\Users\RohithKV\Downloads\LUMEN\Week7\Wednesday\SampleSolution\MyApp1\obj\Debug\net8.0\MyApp1.dll
+C:\Users\RohithKV\Downloads\LUMEN\Week7\Wednesday\SampleSolution\MyApp1\obj\Debug\net8.0\refint\MyApp1.dll
+C:\Users\RohithKV\Downloads\LUMEN\Week7\Wednesday\SampleSolution\MyApp1\obj\Debug\net8.0\MyApp1.pdb
+C:\Users\RohithKV\Downloads\LUMEN\Week7\Wednesday\SampleSolution\MyApp1\obj\Debug\net8.0\MyApp1.genruntimeconfig.cache
+C:\Users\RohithKV\Downloads\LUMEN\Week7\Wednesday\SampleSolution\MyApp1\obj\Debug\net8.0\ref\MyApp1.dll
