@@ -54,7 +54,7 @@ pipeline {
         stage('List Test Results') {
             steps {
                 script {
-                    bat 'dir "SampleSolution.Tests\\TestResults"'
+                    bat 'dir "SampleSolution\\Myapp1.Test\\TestResult"'
                 }
             }
         }
