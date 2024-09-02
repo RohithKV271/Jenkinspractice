@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     tools {
-        Netsdk 'dotnet-sdk'  // Use the name you gave the .NET SDK in Global Tool Configuration
+        dotnetsdk 'dotnet-sdk'  // Use the name you gave the .NET SDK in Global Tool Configuration
     }
 
     stages {
