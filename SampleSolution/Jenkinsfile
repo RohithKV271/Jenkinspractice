@@ -47,7 +47,7 @@ pipeline {
         stage('Test') {
             steps {
                 script {
-                    bat 'dotnet test SampleSolution/Myapp1/Myapp1.Test.csproj --logger "trx;LogFileName=TestResults/test_results.trx"'
+                    bat 'dotnet test SampleSolution/Myapp1.Test/Myapp1.Test.csproj --logger "trx;LogFileName=TestResults/test_results.trx"'
                 }
             }
         }
