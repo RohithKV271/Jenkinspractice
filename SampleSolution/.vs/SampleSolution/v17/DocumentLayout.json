@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\RohithKV\\Downloads\\LUMEN\\Week7\\Wednesday\\SampleSolution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F80E2CD0-2115-4B3C-BB89-9075E981292D}|Myapp1.Test\\Myapp1.Test.csproj|c:\\users\\rohithkv\\downloads\\lumen\\week7\\wednesday\\samplesolution\\myapp1.test\\calculatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80E2CD0-2115-4B3C-BB89-9075E981292D}|Myapp1.Test\\Myapp1.Test.csproj|solutionrelative:myapp1.test\\calculatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80E2CD0-2115-4B3C-BB89-9075E981292D}|Myapp1.Test\\Myapp1.Test.csproj|c:\\users\\rohithkv\\downloads\\lumen\\week7\\wednesday\\samplesolution\\myapp1.test\\myapp1.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F80E2CD0-2115-4B3C-BB89-9075E981292D}|Myapp1.Test\\Myapp1.Test.csproj|solutionrelative:myapp1.test\\myapp1.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80E2CD0-2115-4B3C-BB89-9075E981292D}|Myapp1.Test\\Myapp1.Test.csproj|c:\\users\\rohithkv\\downloads\\lumen\\week7\\wednesday\\samplesolution\\myapp1.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80E2CD0-2115-4B3C-BB89-9075E981292D}|Myapp1.Test\\Myapp1.Test.csproj|solutionrelative:myapp1.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DF2462E9-3264-4C17-920A-57CDC75EAA7C}|MyApp1\\MyApp1.csproj|c:\\users\\rohithkv\\downloads\\lumen\\week7\\wednesday\\samplesolution\\myapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF2462E9-3264-4C17-920A-57CDC75EAA7C}|MyApp1\\MyApp1.csproj|solutionrelative:myapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,6 +35,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Myapp1.Test",
+              "DocumentMoniker": "C:\\Users\\RohithKV\\Downloads\\LUMEN\\Week7\\Wednesday\\SampleSolution\\Myapp1.Test\\Myapp1.Test.csproj",
+              "RelativeDocumentMoniker": "Myapp1.Test\\Myapp1.Test.csproj",
+              "ToolTip": "C:\\Users\\RohithKV\\Downloads\\LUMEN\\Week7\\Wednesday\\SampleSolution\\Myapp1.Test\\Myapp1.Test.csproj",
+              "RelativeToolTip": "Myapp1.Test\\Myapp1.Test.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-28T09:08:41.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorTest.cs",
+              "DocumentMoniker": "C:\\Users\\RohithKV\\Downloads\\LUMEN\\Week7\\Wednesday\\SampleSolution\\Myapp1.Test\\CalculatorTest.cs",
+              "RelativeDocumentMoniker": "Myapp1.Test\\CalculatorTest.cs",
+              "ToolTip": "C:\\Users\\RohithKV\\Downloads\\LUMEN\\Week7\\Wednesday\\SampleSolution\\Myapp1.Test\\CalculatorTest.cs",
+              "RelativeToolTip": "Myapp1.Test\\CalculatorTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T09:09:54.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\RohithKV\\Downloads\\LUMEN\\Week7\\Wednesday\\SampleSolution\\Myapp1.Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Myapp1.Test\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\RohithKV\\Downloads\\LUMEN\\Week7\\Wednesday\\SampleSolution\\Myapp1.Test\\UnitTest1.cs",
+              "RelativeToolTip": "Myapp1.Test\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T09:08:23.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Calculator.cs",
               "DocumentMoniker": "C:\\Users\\RohithKV\\Downloads\\LUMEN\\Week7\\Wednesday\\SampleSolution\\MyApp1\\Calculator.cs",
               "RelativeDocumentMoniker": "MyApp1\\Calculator.cs",
@@ -30,12 +81,11 @@
               "RelativeToolTip": "MyApp1\\Calculator.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T06:20:23.227Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-28T06:20:23.227Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\RohithKV\\Downloads\\LUMEN\\Week7\\Wednesday\\SampleSolution\\MyApp1\\Program.cs",
               "RelativeDocumentMoniker": "MyApp1\\Program.cs",
